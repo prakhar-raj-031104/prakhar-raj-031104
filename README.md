@@ -1,133 +1,310 @@
-<!-- Profile README · github.com/prakhar-raj-031104 -->
+<!--
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  HOW TO USE THIS FILE                                             ║
+  ║  1. Create a NEW public repo named EXACTLY:  prakhar-raj-031104   ║
+  ║  2. Add this file as README.md in that repo's root               ║
+  ║  3. Add .github/workflows/snake.yml (provided separately) for the ║
+  ║     animated contribution snake to generate every 12 hours.       ║
+  ║  4. It will automatically render on your GitHub profile page.     ║
+  ╚══════════════════════════════════════════════════════════════════╝
+-->
 
-<a href="https://agentline.cloud">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,6&height=200&section=header&text=Prakhar%20Raj%20Singhal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founding%20Engineer%20%40%20AgentLine%20%C2%B7%20Backend%20%26%20Infrastructure%20%C2%B7%20Developer%20Platforms%20for%20AI%20Agents&descSize=16&descAlignY=58" alt="Prakhar Raj Singhal"/>
+<!-- ===================== ANIMATED BANNER ===================== -->
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,6&height=220&section=header&text=PRAKHAR%20RAJ%20SINGHAL&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founding%20Engineer%20%40%20AgentLine%20%C2%B7%20Backend%20%26%20Infrastructure%20%C2%B7%20Agentic%20AI&descSize=17&descAlignY=58" alt="Prakhar Raj Singhal"/>
 </a>
 
+<!-- ===================== TYPING HEADLINE ===================== -->
 <p align="center">
-  <a href="https://agentline.cloud"><img src="https://img.shields.io/badge/AgentLine-Founding%20Engineer-4FE3D0?style=for-the-badge&logo=phone&logoColor=black" alt="AgentLine"/></a>
-  <a href="https://github.com/AgentLineHQ/AgentLine"><img src="https://img.shields.io/github/stars/AgentLineHQ/AgentLine?style=for-the-badge&logo=github&label=AgentLine%20OSS&color=131822" alt="AgentLine stars"/></a>
-  <a href="https://www.linkedin.com/in/praiit"><img src="https://img.shields.io/badge/LinkedIn-praiit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:prakhar@agentline.cloud"><img src="https://img.shields.io/badge/Email-prakhar%40agentline.cloud-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/prakhar-raj-031104">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=700&color=4FE3D0&center=true&vCenter=true&width=720&height=45&lines=Founding+Engineer+%40+AgentLine+%E2%98%8E%EF%B8%8F;APIs%2C+MCP+servers+%26+SDKs+that+AI+agents+build+on;Backend-First+Architecture+%E2%80%A2+FastAPI+%E2%80%A2+Go;Webhooks+%E2%80%A2+WebSockets+%E2%80%A2+Redis+%E2%80%A2+Kafka+%E2%80%A2+PostgreSQL" alt="Typing roles"/>
+  </a>
 </p>
 
-I build infrastructure that other developers (and their AI agents) build on. I like owning a thing end to end: deciding what to build, shipping it to production, watching how people actually use it, and fixing what's wrong.
+<!-- ===================== STATUS BADGES ===================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prakhar-raj-031104&style=flat-square&color=4FE3D0&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/prakhar-raj-031104?style=flat-square&color=4FE3D0&labelColor=131822&logo=github" alt="Followers"/>
+  <a href="https://agentline.cloud"><img src="https://img.shields.io/badge/AgentLine-Founding%20Engineer-4FE3D0?style=flat-square&labelColor=131822" alt="AgentLine"/></a>
+  <a href="https://github.com/AgentLineHQ/AgentLine"><img src="https://img.shields.io/github/stars/AgentLineHQ/AgentLine?style=flat-square&logo=github&label=AgentLine%20OSS&color=4FE3D0&labelColor=131822" alt="AgentLine stars"/></a>
+  <img src="https://img.shields.io/badge/IIT%20Bhilai-ECE%20'28-F5A623?style=flat-square&labelColor=131822" alt="IIT Bhilai"/>
+  <img src="https://img.shields.io/badge/Shark%20Tank%20India-Round%202-8B7CF6?style=flat-square&labelColor=131822" alt="Shark Tank"/>
+</p>
 
-Right now that thing is **[AgentLine](https://agentline.cloud)** — an open-source phone + SMS API for AI agents. Before that: production WhatsApp Business API and payment flows for B2B clients, a Go job queue that does 3k jobs/s, and a P2P logistics startup that made it to Shark Tank India round 2.
+<!-- ===================== CAPSULE LINK BUTTONS ===================== -->
+<p align="center">
+  <a href="https://agentline.cloud"><img src="https://img.shields.io/badge/AGENTLINE-4FE3D0?style=for-the-badge&logo=rocket&logoColor=black" alt="AgentLine"/></a>
+  <a href="https://raahikart.in"><img src="https://img.shields.io/badge/RAAHIKART-00B4D8?style=for-the-badge&logo=rocket&logoColor=white" alt="RaahiKart"/></a>
+  <a href="https://www.linkedin.com/in/praiit"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:prakhar@agentline.cloud"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/"><img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+</p>
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prakhar-raj-031104/prakhar-raj-031104/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prakhar-raj-031104/prakhar-raj-031104/output/github-snake.svg"/>
+  <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/prakhar-raj-031104/prakhar-raj-031104/output/github-snake-dark.svg"/>
+</picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,6&height=3" alt="divider"/>
+
+### 🧠 About
+
+```python
+class PrakharRaj:
+    def __init__(self):
+        self.role        = "Founding Engineer @ AgentLine · Backend & Infra"
+        self.education   = "B.Tech ECE @ IIT Bhilai  (2024–2028, CGPA 8.56)"
+        self.focus       = ["developer platforms for AI agents", "webhooks & realtime", "distributed backends"]
+        self.roles       = ["AI/ML Lead @ GDG IIT Bhilai", "Coordinator @ E-Cell"]
+        self.shipping    = "production systems, not just notebooks"
+
+    def current_work(self):
+        return "AgentLine — an open-source phone + SMS API for AI agents ☎️"
+```
+
+
+- ☎️ **Founding Engineer @ [AgentLine](https://agentline.cloud)** — open-source phone + SMS API for AI agents ([AgentLineHQ/AgentLine](https://github.com/AgentLineHQ/AgentLine), MIT): REST, MCP server, SDKs, signed webhooks, hosted cloud
+- 🔭 **Co-founder & Full-Stack Engineer @ [RaahiKart](https://raahikart.in)** — P2P parcel-logistics platform, **Shark Tank India Round 2** selection
+- 💬 Shipped **WhatsApp Business API** notifications and **Razorpay webhook / idempotent payment** flows for live B2B clients at Miar International; built **TaskForge**, a Go + PostgreSQL job queue measured at **3k+ jobs/s**
+- 🤖 I build **infrastructure that developers and their AI agents build on**, and I own it end to end — decide what to build, ship it, watch how it's used, improve it
+- ⚙️ I care about the unglamorous parts: schemas, indexing, rate limiting, caching, observability, fault tolerance
+- 🧪 **Research** in agentic LLM frameworks (5G/6G diagnostics) + paper reviews at **ICLR 2025** & **NAACL 2025**
+- 🎯 Mentoring **30+ students** in ML fundamentals, RAG, and AI agents
 
 ---
 
-## What I'm building now
+### ☎️ What I'm building now — [AgentLine](https://github.com/AgentLineHQ/AgentLine)
 
-### ☎️ [AgentLine](https://github.com/AgentLineHQ/AgentLine) — give any AI agent a real phone number
-`FastAPI` `PostgreSQL` `Redis` `WebSockets` `MCP` `Docker` `SignalWire / Twilio / Plivo / Telnyx` `Deepgram` `Cartesia` `LiveKit / Pipecat` · **MIT**
+`FastAPI` · `PostgreSQL` · `Redis` · `WebSockets` · `MCP` · `Docker` · `SignalWire / Twilio / Plivo / Telnyx` · `Deepgram` · `Cartesia` · `LiveKit / Pipecat` · **MIT**
 
-One API for outbound/inbound PSTN calls, SMS, IVR navigation and transcripts, consumed over REST or MCP from Claude Code, Cursor, Codex, OpenClaw and Hermes. Self-host with one `docker-compose up`, or use the hosted version at [agentline.cloud](https://agentline.cloud).
+**Give any AI agent a real phone number.** One API for outbound/inbound PSTN calls, SMS, IVR navigation and transcripts, consumed over REST or MCP from Claude Code, Cursor, Codex, OpenClaw and Hermes. Self-host with one `docker-compose up`, or use the hosted version at [agentline.cloud](https://agentline.cloud).
+
+```text
+Your agent (Claude Code · Cursor · Codex · OpenClaw · Hermes)
+   └─ REST / MCP / skill.md ─▶ AgentLine API ─▶ carrier router ─▶ SignalWire · Twilio · Plivo · Telnyx ─▶ PSTN
+                                    │                                   (per-country routing, failover)
+                                    ├─ voice runtime: Deepgram STT → LLM → Cartesia TTS  (or LiveKit / Pipecat)
+                                    └─ events & transcripts ─▶ relay WebSocket (ACK/replay) │ signed webhook │ event mailbox
+```
 
 What I own in it:
 
 | Area | What's there |
 |---|---|
-| **Core platform** | Async FastAPI over Postgres + Redis, hashed API keys, auth middleware, migrations, one-command Docker Compose, Railway deploy |
+| **Core platform** | Async FastAPI over Postgres + Redis, hashed API keys, auth middleware, versioned migrations, one-command Docker Compose, Railway deploy |
 | **Developer surface** | REST + OpenAPI, built-in MCP server (14 tools), one-file installable [skill](https://agentline.cloud/skill.md), Python (`agentline-ai`) & Node clients, `/.well-known/agentline.json` discovery |
-| **Reliable delivery** | Persistent outbound WebSocket relay with reconnect + ACK/replay + turn-safe context, HMAC-signed per-agent webhooks as fallback, durable event mailbox — no caller turn is dropped if your runtime is offline |
-| **Voice pipeline** | Deepgram STT → OpenAI-compatible LLM → Cartesia TTS on the carrier media socket; semantic end-of-turn detection, barge-in, real DTMF for IVR menus; pluggable runtimes (built-in / LiveKit / Pipecat) |
+| **Reliable delivery** | Persistent outbound WebSocket relay with reconnect + ACK/replay + turn-safe context; HMAC-signed per-agent webhooks as fallback; durable event mailbox — no caller turn is dropped if your runtime is offline |
+| **Voice pipeline** | Deepgram STT → OpenAI-compatible LLM → Cartesia TTS on the carrier media socket; semantic end-of-turn detection, barge-in, real DTMF for IVR menus; pluggable runtimes |
 | **Telephony** | Provider registry + router with per-country routing and automatic failover across four carriers |
-
-```
-Your agent (Claude, Cursor, Codex, OpenClaw…)
-   └─ REST / MCP ─▶ AgentLine API ─▶ carrier (SignalWire · Twilio · Plivo · Telnyx) ─▶ PSTN
-                        │
-                        └─ events & transcripts ─▶ relay WS / signed webhook / mailbox
-```
 
 ---
 
-## Proof of work
+### 🛠️ Tech Stack
 
-> Numbers below are measured, and the repos include the commands to reproduce them.
+**Agentic AI & LLMs**
 
-#### ⚙️ [TaskForge](https://github.com/prakhar-raj-031104/TaskForge) — distributed job queue on Go + PostgreSQL, no broker
-`Go` `PostgreSQL` `Docker` `Prometheus / Grafana` `k6`
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F61?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FFB000?style=flat-square&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=flat-square&logoColor=white)
 
+**Backend & Infrastructure**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Languages & Core CS**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+`DSA` · `Operating Systems` · `DBMS` · `Computer Networks` · `Computer Architecture` · `System Design (HLD/LLD)`
+
+---
+
+### ⚙️ Backend-First Architecture
+
+> I design from the request inward — every endpoint sits behind a deliberate path of **DNS → edge → gateway → service → data**, with failure handled at each hop.
+
+```text
+                              ┌──────────────────────────────────────────────┐
+   client ──▶ DNS resolve ──▶ │  Nginx / Apache  (TLS termination · reverse  │
+   (HTTPS)   (A / CNAME)      │  proxy · L7 load balancing · rate-limited     │
+                              │  routing · gzip · health checks)              │
+                              └───────────────────────┬──────────────────────┘
+                                                      ▼
+                              ┌──────────────────────────────────────────────┐
+                              │  API Gateway  ·  JWT auth  ·  per-IP / per-key│
+                              │  token-bucket rate limiting (Redis-backed)    │
+                              └───────────────────────┬──────────────────────┘
+                                                      ▼
+            ┌───────────────────────────────────────────────────────────────────┐
+            │  FastAPI services (async)                                          │
+            │  • Pydantic request/response schemas + dependency injection        │
+            │  • idempotency keys · retry budgets · circuit breakers             │
+            │  • structured logging + request tracing (correlation IDs)          │
+            └───────┬───────────────────┬───────────────────────┬───────────────┘
+                    ▼                   ▼                       ▼
+            ┌──────────────┐    ┌──────────────┐        ┌──────────────────────┐
+            │ Redis        │    │ Kafka        │        │ PostgreSQL / Mongo    │
+            │ • cache-aside│    │ • event bus  │        │ • indexed, normalized │
+            │ • sessions   │    │ • async work │        │ • txns · pooling      │
+            │ • rate limits│    │ • decoupling │        │ • read replicas       │
+            └──────────────┘    └──────┬───────┘        └──────────────────────┘
+                                       ▼
+                              ┌──────────────────┐
+                              │ async workers /   │
+                              │ consumers         │
+                              └──────────────────┘
+```
+
+**Infrastructure & networking**
+- **DNS & edge** — A/CNAME resolution, reverse & forward proxy, TLS termination, L7 load balancing, health checks
+- **Rate limiting** — token-bucket / sliding-window limits per IP & per API key, enforced at the gateway via Redis counters to harden APIs against abuse and bursts
+- **Caching (Redis)** — cache-aside reads, session storage, distributed locks, and rate-limit state; tuned TTLs and invalidation to cut DB load
+- **Messaging (Kafka)** — event-driven decoupling, async task fan-out to consumer workers, producer/consumer back-pressure handling, replayable streams
+- **Fault tolerance** — retry budgets, circuit breakers, multi-provider fallback chains, graceful degradation, idempotency keys
+
+**FastAPI service design (the patterns I actually ship)**
+```python
+# Endpoint protected by JWT + Redis-backed rate limit, served async with
+# clean schemas, dependency injection, and cache-aside reads.
+
+@router.get("/v1/routes/{route_id}", response_model=RouteOut)
+async def get_route(
+    route_id: UUID,
+    user: User      = Depends(verify_jwt),                 # auth dependency
+    _:    None      = Depends(rate_limit(limit=60, window=60)),  # 60 req / min / key
+    cache: Redis    = Depends(get_redis),
+    db:    AsyncSession = Depends(get_session),
+):
+    if cached := await cache.get(f"route:{route_id}"):     # cache-aside hit
+        return RouteOut.model_validate_json(cached)
+
+    route = await routes_repo.fetch(db, route_id)          # async DB read
+    if route is None:
+        raise HTTPException(404, "Route not found")
+
+    await cache.set(f"route:{route_id}", route.model_dump_json(), ex=120)  # warm cache
+    await events.publish("route.viewed", route_id=route_id)  # Kafka event, fire-and-forget
+    return route
+```
+
+`API Gateway design` · `REST + WebSockets` · `microservices` · `horizontal scaling` · `connection pooling` · `observability & tracing` · `async message queues`
+
+---
+
+### 🚀 Featured Projects
+
+> 💡 *Each project below targets a real bottleneck — the framing is **Problem → System → Result**.*
+
+#### ⚙️ [TaskForge](https://github.com/prakhar-raj-031104/TaskForge) — High-Throughput Distributed Job Queue (Go + PostgreSQL, no broker)
+`Go` · `PostgreSQL` · `Docker` · `Prometheus / Grafana` · `k6`
 - **3,000+ jobs/s** in local load tests; `SELECT … FOR UPDATE SKIP LOCKED` + fencing tokens → **zero duplicate claims** across 200 jobs × 16 workers (tested under `-race`)
 - Partial index cut claim latency **31 ms → 0.22 ms**; idempotency keys enforced by a partial unique index
 - Retries with equal-jitter backoff, dead-letter queue with replay, lease renewal, crash recovery (SIGKILL a worker mid-job, another reclaims it)
-- DNS-level SSRF prevention for outbound webhook jobs; 28 MB distroless image; Go stdlib HTTP only
+- DNS-level SSRF prevention for outbound webhook jobs; **28 MB distroless image**; Go stdlib HTTP only — every number is measured and reproducible from the repo
 
-#### 💬 WhatsApp Business API + payments in production — Miar International
-`TypeScript` `Node / Express` `PostgreSQL / Prisma` `React`
+#### 💬 WhatsApp Business API + Payments in Production — Miar International
+`TypeScript` · `Node / Express` · `PostgreSQL / Prisma` · `React` · `WhatsApp Business API` · `Razorpay`
+- Real-time booking with **WhatsApp template notifications** and delivery-status webhooks for live B2B clients
+- **Razorpay HMAC-SHA256 webhook verification** + an idempotent order state machine — no duplicate bookings or charges under concurrent load
+- JWT auth, RBAC, input validation and rate limiting on every public route
 
-- Real-time booking with WhatsApp template notifications and delivery-status webhooks for live B2B clients
-- Razorpay HMAC-SHA256 webhook verification + an idempotent order state machine — no duplicate bookings or charges under concurrent load
-- JWT auth, RBAC, input validation, rate limiting on every public route
+#### 📦 [RaahiKart](https://raahikart.in) — Peer-to-Peer Parcel Logistics Platform
+`Node.js` · `Express` · `PostgreSQL` · `WebSockets` · `JWT` · `Docker` · `Apache/Nginx` · `CI/CD`
+- Matches parcel senders with travellers across shared train/bus routes — **live in production**
+- Real-time route-matching engine on **WebSocket bidirectional sync**, holding **100+ concurrent users** at low latency
+- Normalized PostgreSQL schemas (indexing, transactions) + JWT auth + protected REST routes; behind an Apache/Nginx reverse proxy for TLS termination and rate-limited routing
+- Scaled **0 → 100+ registered users**; **🦈 Shark Tank India Round 2** national selection
 
-#### 📦 [RaahiKart](https://raahikart.in) — co-founder · live P2P parcel logistics · 🦈 Shark Tank India Round 2
-`Node.js` `PostgreSQL` `WebSockets` `JWT` `Docker` `CI/CD`
+#### 🎫 SmartTrix — End-to-End Agentic Booking System
+`LangChain` · `FastAPI` · `Playwright` · `Async Workers` · `LLM Tool-Calling`
+- Autonomous agent owning the full lifecycle: *natural-language query → multi-source price scrape → economical-route selection → booking → confirmation*
+- LLM dynamically selects scraping / comparator / booking tools via tool-calling; browser-automation layer with **state recovery** handles CAPTCHAs & inconsistent DOMs **without human-in-the-loop**
+- Async task queues, structured tool-call schemas, per-tool tracing, retry budgets & fallback chains
 
-- Real-time route matching over WebSockets, 100+ concurrent users; took it from zero to first paying users
+#### 🩺 [Cortex AI](https://github.com/prakhar-raj-031104/multimodal-ai-assistant) — Multimodal Health-Aware AI Assistant
+`FastAPI` · `Whisper` · `Qwen-VL` · `Llama (QLoRA)` · `ChromaDB`
+- Microservices for **voice (Whisper) + vision (Qwen-VL) + LLM** behind a unified gateway with **sub-200 ms routing**
+- Three-modal pipeline with real-time sentiment adaptation + persistent multi-session memory via ChromaDB
+- Integrating PPG-based heartbeat sync on wearable data to flag early cardiac-risk indicators in the reasoning loop
 
-#### 🔗 Domino — change-impact intelligence for a whole repo
-`FastAPI` `NetworkX` `LangChain`
+#### 💊 [SmartAMR](https://github.com/prakhar-raj-031104/Smart-AMR) — Clinical Antibiotic-Resistance Decision Support
+`FastAPI` · `XGBoost` · `SHAP` · `Hybrid RAG (FAISS + BM25)` · `LangChain` · `MySQL`
+- Predicts resistance across **15 antibiotics** (multi-label XGBoost) with **SHAP explainability**
+- **Hybrid BM25 + FAISS** retrieval (40/60 ensemble) grounds every recommendation in EUCAST/WHO evidence — no dosage hallucinations
+- **3-provider LLM fallback** (Groq → Gemini → OpenRouter) with HTTP-429 retry for resilience; JWT auth + per-user isolation
 
-- 4-layer dependency graph (files → calls → classes → services) → a 0–100 blast-radius score, affected APIs and a recommended test set before you deploy
+#### 🔗 [Domino](https://github.com/ayushmanbhatt07/Domino-Repository-Wide-Code-Change-Intelligence-Platform) — Repository-Wide Change-Impact Intelligence
+`FastAPI` · `NetworkX` · `LangChain + Gemini` · `PostgreSQL` · `React` · `Docker`
+- Predicts a code change's downstream **blast radius before deployment** as a 0–100 impact score
+- Builds repo-wide dependency graphs across **4 layers** (file, function-call, class, service) with NetworkX
+- Routes traversal results to a Gemini + LangChain layer for plain-English risk reports + recommended test set
 
-#### 🧠 Cortex AI — always-on multimodal agent backend
-`asyncio` `Whisper` `Qwen2.5-VL` `Groq` `RAG`
-
-- Concurrent voice + vision agent sustaining 50+ streams; sub-200 ms gateway routing; episodic memory at 94% factual consistency (RAGAS)
-
-#### 💊 [SmartAMR](https://github.com/prakhar-raj-031104/Smart-AMR) — clinical decision support with grounded RAG
-`FastAPI` `XGBoost + SHAP` `FAISS + BM25` `LangChain`
-
-- Hybrid retrieval grounds every recommendation in cited guidelines; 3-provider LLM fallback chain (Groq → Gemini → OpenRouter) with 429-aware retries
-
-#### 📡 Research — agentic LLMs for 5G/6G network diagnostics (IIT Bhilai, paper under review)
-- PCAP Analysis Agent: 80+ deterministic diagnostic tests fused with an LLM loop that writes Wireshark filters, with a validator → rewriter loop and headless TShark re-checks; benchmarked 6 LLMs on 3GPP understanding (best 84.1%)
-
----
-
-## How I work
-
-- **Decide → build → ship → iterate.** At AgentLine the whole engineering surface is a few people, so "someone else will handle it" is not an option. I'd rather own a feature from the issue to the changelog.
-- **Developer experience is a product feature.** If an agent can't install it from one URL, or a developer can't get a first message/call working in five minutes, it isn't done.
-- **Reliability is the boring stuff done consistently.** Idempotency keys, signed webhooks, ACK/replay, backoff with jitter, dead letters, and measuring before claiming a number.
-- **AI-first, not AI-only.** I use coding agents daily and build the MCP servers / skill files they consume — but the LLM sits behind deterministic validation, not in front of it.
-
-## Stack
-
-**Languages** — TypeScript / Node, Python, Go, SQL, C++
-
-**Platforms** — REST & OpenAPI, webhooks (signing · retries · idempotency), WebSockets, MCP servers, SDK & CLI design, WhatsApp Business API, telephony (PSTN carriers, SIP)
-
-**Infra** — PostgreSQL, Redis, Kafka, Docker, AWS (EC2, S3), Nginx, GitHub Actions, Prometheus / Grafana, k6, Linux
-
-**AI** — tool-calling agents, LangGraph / LangChain, RAG (Qdrant, FAISS), evals (RAGAS), PyTorch, LoRA / QLoRA
+#### 🤖 Tax Consultant RAG — Grounded Tax-Advisory System
+`FastAPI` · `RAG` · `Vector DB` · `LangChain`
+- Retrieval-augmented advisory over curated tax documentation with citation-aware, source-traceable answers
 
 ---
 
-<details>
-<summary><b>More</b> — education, community, stats</summary>
-<br/>
+### 🔬 Research & Achievements
 
-- 🎓 **IIT Bhilai** — B.Tech, Electronics & Communication Engineering (2024–2028)
-- 🧑‍🏫 AI/ML Lead, Google Developer Groups IIT Bhilai — mentoring 30+ students on LLMs, RAG and agents
-- 🏆 AlgoUniversity — selected nationally from 70,000+ students · Inter-IIT Tech Meet quant strategy (Sharpe 1.5–2.0)
-- 📚 ICLR 2025 & NAACL 2025 paper review and reproduction studies
+- 📄 **Co-author** — *Autonomous Agentic-LLM Framework for PCAP Analysis in 5G/6G Telecom Diagnostics* (under review)
+  - Built the **PCAP Analysis Agent**: 80+ pre-compiled diagnostic tests fused with an agentic reasoning loop that writes Wireshark filters on the fly
+  - Benchmarked GPT-4o, Nemotron-70B, Llama 3.1 70B, Qwen 3 32B, Phi-4, Gemma 2 27B → **84.1% on 3GPP TS understanding**
+- 🦈 **Shark Tank India Round 2** — national selection (RaahiKart)
+- 📚 **ICLR 2025** — paper review & reproduction (LLM training-efficiency / loss strategies; cross-modal representation learning)
+- 📚 **NAACL 2025** — fine-tuning strategies for multilingual LLMs (review & implementation study)
+- 🧩 **Codeforces Pupil** · active on **LeetCode**
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,6&height=3" alt="divider"/>
+
+<h3 align="center">‹ /› &nbsp;GitHub Analytics &nbsp;‹ /›</h3>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=prakhar-raj-031104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar-raj-031104&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prakhar-raj-031104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar-raj-031104&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prakhar-raj-031104/prakhar-raj-031104/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prakhar-raj-031104/prakhar-raj-031104/output/github-snake.svg"/>
-  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/prakhar-raj-031104/prakhar-raj-031104/output/github-snake-dark.svg"/>
-</picture>
-
-</details>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=prakhar-raj-031104&theme=tokyonight&hide_border=true" alt="Streak stats"/>
+</p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prakhar-raj-031104&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakhar-raj-031104&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph"/>
+</p>
+
+---
+
+<p align="center">
+  <em>Building the infrastructure that agents build on — and the systems that reason, act, and recover.</em><br/>
   <sub>📫 <a href="mailto:prakhar@agentline.cloud">prakhar@agentline.cloud</a> · <a href="https://www.linkedin.com/in/praiit">LinkedIn</a> · <a href="https://agentline.cloud">agentline.cloud</a></sub>
 </p>
