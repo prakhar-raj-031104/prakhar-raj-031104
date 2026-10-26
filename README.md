@@ -10,8 +10,8 @@
 -->
 
 <!-- ===================== ANIMATED BANNER ===================== -->
-<a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,6&height=220&section=header&text=PRAKHAR%20RAJ%20SINGHAL&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founding%20Engineer%20%40%20AgentLine%20%C2%B7%20Backend%20%26%20Infrastructure%20%C2%B7%20Agentic%20AI&descSize=17&descAlignY=58" alt="Prakhar Raj Singhal"/>
+<a href="https://agentline.cloud">
+  <img width="100%" src="banner.svg" alt="Prakhar Raj Singhal — Founding Engineer @ AgentLine"/>
 </a>
 
 <!-- ===================== TYPING HEADLINE ===================== -->
@@ -48,7 +48,7 @@
   <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/prakhar-raj-031104/prakhar-raj-031104/output/github-snake-dark.svg"/>
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,6&height=3" alt="divider"/>
+<hr/>
 
 ### 🧠 About
 
@@ -281,7 +281,7 @@ async def get_route(
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,6&height=3" alt="divider"/>
+<hr/>
 
 <h3 align="center">‹ /› &nbsp;GitHub Analytics &nbsp;‹ /›</h3>
 
